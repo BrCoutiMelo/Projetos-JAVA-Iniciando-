@@ -1,5 +1,8 @@
+//========================================//
+//==___EXERCÍCIO DE NÚMEROS PARES___==
+//=======================================//
+
 import java.util.Scanner;
-import java.util.Locale;
 class exercicios {
 	public static void main(String[]args) {
 		Scanner n = new Scanner(System.in); //Imprimir numeros pares de 25;
